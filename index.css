@@ -120,7 +120,7 @@ background-color: rgba(108, 212, 195, 0.751);
    align-items: center;
    margin: 40px 0;
    opacity: 1;
-   transform: translateY(70px);
+   transform: translateY(30px);
  }
  
  .skills .skill .thumbnail {
